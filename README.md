@@ -17,7 +17,9 @@ modern convention and the original Hodgkin-Huxley convention (resting
 potential at 0mV and sign of voltage is flipped)
 
 In "The Annotated Hodgkin and Huxley" (linked below), the modern versions 
-of the graphs should match what is simulated here using the modern convention.
+of the graphs should match what is simulated here using the modern convention. 
+I noted the page numbers in "The Annotated Hodgkin and Huxley" for each of the graphs 
+so you can easily compare them to the text and mess with how changing different parameters would affect the output.
 
 HODGKIN AL, HUXLEY AF. A quantitative description of membrane current and 
 its application to conduction and excitation in nerve. 
