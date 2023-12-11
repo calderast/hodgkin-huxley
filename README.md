@@ -8,8 +8,8 @@ how those rate constants are dependent on the membrane voltage.
 
 Provides code to simulate an action potential using the moden convention 
 (resting potential at -60mV and positive ions into the cell = voltage gets 
-more positive) because that's what we're used to. (PS I know that the 
-resting potential of an axon is around -70mV instead of -60mV but -60mV is 
+more positive) instead of the classic HH convention because that's what we're used to. 
+(PS I know that the resting potential of an axon is around -70mV instead of -60mV but -60mV is 
 consistent with what is shown in "The Annotated Hodgkin and Huxley")
 
 I then replicate the graphs from the Hodgkin-Huxley paper using both the 
